@@ -920,6 +920,7 @@ ul {
 --------------------------------------*/
 .header-top-area {
   padding: 8px 0;
+  padding-top: 16px;
 }
 .header-top-area .header-top-left ul li {
   margin-right: 30px;
